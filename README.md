@@ -39,3 +39,4 @@ or you can use PSEXEC module for attack
 2. [Mimikatz](https://github.com/gentilkiwi/mimikatz)
 3. [Pass the hash toolkit](https://www.kali.org/tutorials/pass-the-hash-toolkit-winexe-updates/)
 4. [PSExec](https://www.offensive-security.com/metasploit-unleashed/psexec-pass-hash/)
+5. [Evil-winrm](https://github.com/Hackplayers/evil-winrm)
